@@ -1,0 +1,23 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/paper" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1001 }, "model": "item/artifacts/fire_fragment" },
+    { "predicate": { "custom_model_data": 1002 }, "model": "item/artifacts/wind_fragment" },
+    { "predicate": { "custom_model_data": 1003 }, "model": "item/artifacts/zeus_fragment" },
+    { "predicate": { "custom_model_data": 1004 }, "model": "item/artifacts/ender_fragment" },
+    { "predicate": { "custom_model_data": 1005 }, "model": "item/artifacts/vision_fragment" },
+    { "predicate": { "custom_model_data": 1006 }, "model": "item/artifacts/strength_fragment" },
+    { "predicate": { "custom_model_data": 1007 }, "model": "item/artifacts/telekinesis_fragment" },
+    { "predicate": { "custom_model_data": 1008 }, "model": "item/artifacts/poseidon_fragment" },
+
+    { "predicate": { "custom_model_data": 1011 }, "model": "item/artifacts/fire_artifact" },
+    { "predicate": { "custom_model_data": 1012 }, "model": "item/artifacts/wind_artifact" },
+    { "predicate": { "custom_model_data": 1013 }, "model": "item/artifacts/zeus_artifact" },
+    { "predicate": { "custom_model_data": 1014 }, "model": "item/artifacts/ender_artifact" },
+    { "predicate": { "custom_model_data": 1015 }, "model": "item/artifacts/vision_artifact" },
+    { "predicate": { "custom_model_data": 1016 }, "model": "item/artifacts/strength_artifact" },
+    { "predicate": { "custom_model_data": 1017 }, "model": "item/artifacts/telekinesis_artifact" },
+    { "predicate": { "custom_model_data": 1018 }, "model": "item/artifacts/poseidon_artifact" }
+  ]
+}
